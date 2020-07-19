@@ -1,4 +1,4 @@
-# Update January 2020
+### Update January 2020
 The SQL and Reinforcement learning lectures and Jupyter tutorials were also given at the SEPnet Machine Learning and AI Workshop, 15-16 January 2020, Queen Mary University of London.
 
 # DSI
